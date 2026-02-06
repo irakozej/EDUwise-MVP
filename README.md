@@ -41,6 +41,7 @@ This project represents an **initial functional prototype (MVP)** developed as p
 
 The trained model is saved and loaded by the API for inference.
 
+You can check the graphs in the graphs folder.
 ---
 
 ## Backend (API)
