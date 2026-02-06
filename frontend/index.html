@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EDUwise – Student Support</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>EDUwise Student Support System</h1>
+        <p>Enter student details to assess academic risk and get recommendations.</p>
+
+        <form id="studentForm">
+            <input type="number" placeholder="Attendance Rate (%)" id="attendance" required>
+            <input type="number" placeholder="Average Grade" id="grade" required>
+            <input type="number" placeholder="Study Hours per Week" id="hours" required>
+            <input type="number" placeholder="Engagement Score (0–1)" step="0.1" id="engagement" required>
+            <input type="number" placeholder="Previous Failures" id="failures" required>
+
+            <button type="submit">Get Recommendations</button>
+        </form>
+
+        <div id="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
