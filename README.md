@@ -51,7 +51,7 @@ The trained model is saved and loaded by the API for inference.
 
 ### Available Endpoints
 
-#### 🔹 `/predict` (POST)
+#### `/predict` (POST)
 
 Predicts student performance based on input features.
 
@@ -179,10 +179,10 @@ eduwise-api/
 
 ## Alignment with Rubric
 
-* ✔ Correct understanding of project requirements
-* ✔ Appropriate tool selection (ML + API + UI)
-* ✔ Proper environment setup using virtual environments
-* ✔ Clear navigation via Swagger UI and frontend mockup
+* Correct understanding of project requirements
+* Appropriate tool selection (ML + API + UI)
+* Proper environment setup using virtual environments
+* Clear navigation via Swagger UI and frontend mockup
 
 ---
 
@@ -197,7 +197,7 @@ eduwise-api/
 
 ## Author
 
-**Student Name:** *[Your Name]*
+**Student Name:** *Jean Paul IRAKOZE*
 
 **Project:** EDUwise – AI-powered Educational Support System
 
