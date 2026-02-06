@@ -42,6 +42,8 @@ This project represents an **initial functional prototype (MVP)** developed as p
 The trained model is saved and loaded by the API for inference.
 
 You can check the graphs in the graphs folder.
+
+https://github.com/irakozej/EDUwise-MVP.git
 ---
 
 ## Backend (API)
